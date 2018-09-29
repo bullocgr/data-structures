@@ -1,4 +1,3 @@
-this is an edit
 My name is Grace Bullock.
 My email address is **bullocgr@oregonstate.edu**.
 I am majoring in Computer Science and this is my second year in the major.
